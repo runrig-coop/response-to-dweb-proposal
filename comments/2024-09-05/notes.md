@@ -1,0 +1,43 @@
+- Dani
+  - appreciate presenting the larger landscape of 
+- Will
+  - what are we trying to do, can we scope them each more tightly so they can do what they do better
+- David
+  - 1st half of the talk, the critique, would be great on its own
+  - how to allow more to emerge and address concerns, bring more people in, add space
+  - coexisting, if these can generate more revenue
+  - doesn't need to all line up to benefit all
+- Paul
+  - exit to commons
+  - don't need to self-fund
+- Colin
+  - stuff seems common-sensical
+- Dani
+  - today's excue call, next thu they're going to do an open call of who all is involved to do some needs identification
+  - whole process that Sam, Greg, et al have been working toward since before DWeb,
+  - Madelynn would really love to hear these critiques
+- David
+  - to why?
+  - representative of the software teams
+- Will
+  - Collaboration Moster is not all about CopyFair and trademark as an enforcement mechanism; it's about working to align incentives to galvanize shared commitments
+  - ie, what's in it for all of us in this space?
+  - also patent pools, a commitment to standards, other enforcement mechanisms, etc
+- David
+  - Hadrian, works for Inrupt, but also kinda independent and on Solid boards etc
+    - Hadrian Zbarcea, Inrupt Inc., formerly Apache Software Foundation
+    - https://github.com/hzbarcea
+    - https://forum.solidproject.org/u/hzbarcea/summary
+    - https://www.inrupt.com/blog/solid-for-application-development
+  - institutions working on basic research can be hesitant to focus too narrowly on things that provide near-term value
+- Paul
+  - self-hosting is a good example of farmOS's local maximum
+- David
+  - the champion for sticking to FOSS in ExCUE has been Greg
+  - when talking about investments, it's not so much about an equity investment portfolio so much as it is a financial endowment
+  - Two "investors" so far:
+    - 11th Hour
+    - No Regrets
+  - How to get ten more like that?
+- Jamie
+  - How can we resource food producers????
