@@ -285,15 +285,12 @@ A method for socio-ecological design 🌱
 
 ###### Start with many 🍪's (smaller the better) then build slowly to the big 👾
 
-- Organize<!-- .element: class="fragment" --> __support__ and __reach__
-    - <!-- .element: class="fragment" --> vs. <em>capital accumulation</em> and <em>marketing</em>
-- Distribute<!-- .element: class="fragment" --> __costs__ and __control__
-    - <!-- .element: class="fragment" --> vs. <em>scaling</em> and <em>infinite growth</em>
-
-
-<aside class="notes">
-    Speaker's Notes
-</aside>
+| VC Methods            | Runrig Methods             |
+| :-------------------- | :------------------------- |
+| <span>Scaling Production</span><!-- .element: class="fragment" -->    | <span>_Expanding_ __REACH__</span><!-- .element: class="fragment" -->      |
+| <span>Consolidating Markets</span><!-- .element: class="fragment" --> | <span>_Organizing_ __SUPPORT__</span><!-- .element: class="fragment" -->   |
+| <span>Accumulating Capital</span><!-- .element: class="fragment" -->  | <span>_Distributing_ __CONTROL__</span><!-- .element: class="fragment" --> |
+| <span>Seeking Rents</span><!-- .element: class="fragment" -->         | <span>_Diffusing_ __COSTS__</span><!-- .element: class="fragment" -->      |
 
 
 ---
