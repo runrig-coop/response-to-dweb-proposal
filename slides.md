@@ -96,8 +96,8 @@ _(again, purely as an outsider looking in)_
 ----
 
 
-### ©️ Licensing & the Commons™️
-- Does this model undervalue indy & volunteer contributors, _plus the generative qualities of the free software community as a whole?_
+### ©️ Licensing <span class="fragment strike" >and</span> the Commons™️
+- Does this model undervalue indy & volunteer contributors, plus the generative qualities of the free software community as a whole?<!-- .element: class="fragment" -->
 - Does it risk jettisoning that value and estranging contributors if this plan stifles or significantly alters those community dynamics?<!-- .element: class="fragment" -->
 
 
@@ -223,21 +223,20 @@ A method for socio-ecological design 🌱
 
 ----
 
-#### Mount Improbable
-
-<p style="font-size:10px;line-height:12px;margin:-1em 0 0 0;">Source: <a href="https://youtu.be/YT1vXXMsYak?t=1724">https://youtu.be/YT1vXXMsYak?t=1724</a>.</p>
-
+### The Fitness Landscape
+#### a.k.a., Mount Improbable
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YT1vXXMsYak?si=IQfdU1vZt9GqbnHy&amp;mute=1&amp;autoplay=1&amp;start=1724" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<p style="font-size:10px;line-height:12px;margin:-1em 0 0 0;">Source: <a href="https://youtu.be/YT1vXXMsYak?t=1724">https://youtu.be/YT1vXXMsYak?t=1724</a>.</p>
 
 ----
 
 #### Local Maximum vs. Global Maximum
-<p style="font-size:10px;line-height:12px;margin:-1em 0 0 0;">Source: <a href="https://en.wikipedia.org/wiki/NK_model">https://en.wikipedia.org/wiki/NK_model</a>.</p>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ea/Visualization_of_two_dimensions_of_a_NK_fitness_landscape.png)
 
+<p style="font-size:10px;line-height:12px;margin:-1em 0 0 0;">Source: <a href="https://en.wikipedia.org/wiki/NK_model">https://en.wikipedia.org/wiki/NK_model</a>.</p>
 
 <aside class="notes">
     <ul>
