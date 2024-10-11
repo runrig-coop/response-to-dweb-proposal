@@ -20,7 +20,7 @@ requested, but in lieu of that, I'll just leave these recommendations here in
 case they prove useful, along with my original [slides] and the other notes I've
 included in [this repository].
 
-_Prepared by Jamie Gaehring. Last updated 27 Sep 2024._
+_Prepared by Jamie Gaehring. Last updated 11 Oct 2024._
 
 [notes]: ./notes.md
 [feedback]: #presentation-feedback
@@ -33,46 +33,33 @@ _Prepared by Jamie Gaehring. Last updated 27 Sep 2024._
 
 ## Recommendations
 My interest in collaborating with such an entity or becoming one of its
-signatories would be greatly encouraged if at least one or all three of these
-recommendations, in some form, were adopted into the proposed charter:
+signatories would be greatly encouraged if at least one or all four of these
+recommendations were integrated into the proposed charter:
 
 1. Establish the charter on a common mission to support __Food Sovereignty and
-  Tech Sovereignty__ movements on an international scale. More specifically,
-  focus the mission on building stronger connections and new synergies _between_
-  the two movements for Food Sovereignty and Tech Sovereignty. Any initiatives
-  should advance the work of both movements, together or separately, while
-  acknowledging the existing leadership of the (largely indigenous) groups that
-  have been working in each of these arenas for decades now.
-2. Use __trademark as a license enforcement mechanism__, as proposed in the
-  original [Collaboration Monster proposal], but replace CopyFair licensing for
-  the GNU Public License, version 3 (GPLv3), or similar __Copyleft licensing
-  that would be [GPL compatible]__.
-3. Also within the framework of the [Collaboration Monster proposal], replace
-  pooled intellectual property (IP) with __common infrastructure as a shared
-  stake__ or commitment that would align incentives and galvanize support. Such
-  infrastructure could run the range of services, standards, or even physical
-  networking or computing infrastructure; it might be achieved through small,
-  iterative steps or large-scale, monolithic achievements; however, in all
-  cases, it should far exceed the scope and capabilities of the independent
-  contributors and smaller institutions that would sign onto the charter.
-4. Explicitly define _investors_, what kind of _returns_ they may expect if not
-   in the form of monetary dividends, as well as what forms of _stock_ or
-   _stake_ they may hold. If there are no financial assets or gains implied by
-   the term, consider replacing it with _sponsor_, a term farmOS has used to
-   designate someone who is commissioning new work to be entered into the
-   commons, or _donor_, if the grant is not earmarked for a specific project or
-   initiative.
+   Tech Sovereignty__ movements an international level.
+2. Adopt the __GNU Public License Version 3 (GPLv3) or a [GPL compatible]
+   licensing requirement__ in place of the CopyFair license suggested in the
+   original [Collaboration Monster proposal], whether or not trademark is
+   employed as an enforcement mechanism.
+3. Commit to __large-scale, common infrastructure as the shared stake__ that
+   fundamentally aligns incentives and galvanizes support; eliminate pooled
+   intellectual property (IP) from the charter entirely.
+4. __Retitle investors as sponsors__, or equivalent, wherever the charter or
+   other agreement stipulates eligible sources of funding in the utility or
+   common infrastructure.
 
 
 ### Prioritize Food & Tech Sovereignty
 > 1. Establish the charter on a common mission to support __Food Sovereignty and
->   Tech Sovereignty__ movements on an international scale. More specifically,
->   focus the mission on building stronger connections and new synergies
->   _between_ the two movements for Food Sovereignty and Tech Sovereignty. Any
->   initiatives should advance the work of both movements, together or
->   separately, while acknowledging the existing leadership of the (largely
->   indigenous) groups that have been working in each of these arenas for
->   decades now.
+>   Tech Sovereignty__ movements on an international scale.
+
+Focus the mission on building stronger connections and new synergies _between_
+the two movements and the existing institutions that, for the most part, operate
+independently today. Any initiatives should advance the work of both movements,
+jointly or severally, while acknowledging the existing leadership of the groups
+that have been working in each of these arenas for decades now, predominantly
+from indigenous communities.
 
 More than anything else, I would be greatly encouraged if Food & Tech
 Sovereignty (F&TS), as a combined principle, was made central to the charter and
@@ -152,11 +139,11 @@ such partner organizations that may be possible, if not already established.
 [Grassroots Economic Organizing]: https://geo.coop
 
 
-### Copyleft Enforced by Trademark (GPLv3 Compatible)
-> 2. Use __trademark as a license enforcement mechanism__, as proposed in the
->   original [Collaboration Monster proposal], but replace CopyFair licensing
->   for the GNU Public License, version 3 (GPLv3), or similar __Copyleft
->   licensing that would be [GPL compatible]__.
+### Require GPL Compatibility
+> 2. Adopt the __GNU Public License Version 3 (GPLv3) or a [GPL compatible]
+>    licensing requirement__ in place of the CopyFair license suggested in the
+>    original [Collaboration Monster proposal], whether or not trademark is
+>    employed as an enforcement mechanism.
 
 The CopyFair license was appropriate for machine learning applications because:
 (1) the models and the training data have particular characteristics, and (2)
@@ -216,20 +203,19 @@ and non-compatible licenses.
 [a detailed list]: https://www.gnu.org/licenses/license-list.en.html#GPLCompatibleLicenses
 
 ### Infrastructure as Common Stake
-> 3. Also within the framework of the [Collaboration Monster proposal], replace
->   pooled intellectual property (IP) with __common infrastructure as a shared
->   stake__ or commitment that would align incentives and galvanize support.
->   Such infrastructure could run the range of services, standards, or even
->   physical networking or computing infrastructure; it might be achieved
->   through small, iterative steps or large-scale, monolithic achievements;
->   however, in all cases, it should far exceed the scope and capabilities of
->   the independent contributors and smaller institutions that would sign onto
->   the charter.
+> 3. Commit to __large-scale, common infrastructure as the shared stake__ that
+>    fundamentally aligns incentives and galvanizes support; eliminate pooled
+>    intellectual property (IP) from the charter entirely.
 
-I would hope that any such chartered federation or consortium, working in a
-top-down fashion and with a considerable pool of resources to draw upon, would
-set an ambitious mandate for itself and not settle for what can be achieved by
-smaller institutions. To put it bluntly: swing for the fences!
+Such infrastructure could run the gamut of generic hosting or storage services,
+standards, or even physical networking or computing infrastructure; it might be
+achieved through small, iterative steps or large-scale, monolithic achievements;
+however, in all cases, it should far exceed the scope and capabilities of the
+independent contributors and smaller institutions that would sign onto the
+charter. I should hope that any such chartered federation or consortium, working
+in a top-down fashion and with a considerable pool of resources to draw upon,
+would set an ambitious mandate for itself and not settle for what can be
+achieved by smaller institutions. To put it bluntly: swing for the fences!
 
 Meanwhile, leave end-user applications, plugins, minor integrations, and basic
 services to be built by the constituent signatories. Smaller, unaffiliated or
@@ -280,6 +266,45 @@ work of such an entity and another powerful justification for funding.
 [servers.coop]: https://servers.coop
 [Autonomic]: https://autonomic.zone/
 [Cyberia Computer Club]: https://cyberia.club/
+
+
+### Sponsors, not Investors
+> 4. __Retitle investors as sponsors__, or equivalent, wherever the charter or
+>    other agreement stipulates eligible sources of funding in the utility or
+>    common infrastructure.
+
+The term _sponsor_ is often used by farmOS and other FOSS projects to designate
+an organization or individual who commissions new work to be entered into the
+public commons thereafter. If the funds are not earmarked for a specific project
+or initiative, plenty of other terms could be applied, such as _donors_,
+_funders_, _endowers_, etc.
+
+I'm assuming here, as David Thomas indicated in the feedback session, that
+wherever a mention of "investors" or "returns" occurs in these proposals, it's
+meant in the sense of shared posterity or the commonweal, as in "investing in
+our children's future" or similar. It strikes me as a peculiar usage, and if it
+is retained, it should be explained more clearly, preferably with some
+background or precedence for such usage. If equity _is_ implied, I should hope
+it refers to a private arrangement between an enterprise and its direct
+investors, not the investors in the utility itself, and I don't see the need to
+incorporate that language into the charter or other agreements that may effect
+the signatories as a group.
+
+All semantics aside, prohibiting equity investments and returns on the common
+utility is a pretty hard requirement, personally. To my mind it's antithetical
+to the whole notion of a common utility or public good. Once I'm paid for my
+labor, I have no intention of claiming royalties or dividends based on my
+contributions to the commons; I absolutely will not tolerate others rent-seeking
+on software my labor produced. I choose to contribute to the free software
+commons specifically because it guarantees everyone the right to use those tools
+freely. It also guarantees my own right to continue developing them as I see
+fit, which is essential to my livelihood. I will not sign any agreement that
+diminishes or endangers _any_ of those rights.
+
+The only exception to this prohibition on equity investments, which I would
+tolerate but would not advise, would be an investment in physical infrastructure
+or services, on the stipulation of capping all returns. Something like a limited
+credit or rebate on its use seems preferable if that was the case.
 
 
 ## Presentation Feedback
