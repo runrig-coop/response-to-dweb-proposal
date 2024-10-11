@@ -55,6 +55,13 @@ recommendations, in some form, were adopted into the proposed charter:
   iterative steps or large-scale, monolithic achievements; however, in all
   cases, it should far exceed the scope and capabilities of the independent
   contributors and smaller institutions that would sign onto the charter.
+4. Explicitly define _investors_, what kind of _returns_ they may expect if not
+   in the form of monetary dividends, as well as what forms of _stock_ or
+   _stake_ they may hold. If there are no financial assets or gains implied by
+   the term, consider replacing it with _sponsor_, a term farmOS has used to
+   designate someone who is commissioning new work to be entered into the
+   commons, or _donor_, if the grant is not earmarked for a specific project or
+   initiative.
 
 
 ### Prioritize Food & Tech Sovereignty
