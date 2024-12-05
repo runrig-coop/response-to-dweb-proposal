@@ -226,7 +226,15 @@ A method for socio-ecological design 🌱
 ### The Fitness Landscape
 #### a.k.a., Mount Improbable
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YT1vXXMsYak?si=IQfdU1vZt9GqbnHy&amp;mute=1&amp;autoplay=1&amp;start=1724" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe
+    width="560"
+    height="315" src="https://www.youtube.com/embed/YT1vXXMsYak?si=IQfdU1vZt9GqbnHy&amp;mute=1&amp;autoplay=0&amp;start=1724"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+</iframe>
 
 <p style="font-size:10px;line-height:12px;margin:-1em 0 0 0;">Source: <a href="https://youtu.be/YT1vXXMsYak?t=1724">https://youtu.be/YT1vXXMsYak?t=1724</a>.</p>
 
